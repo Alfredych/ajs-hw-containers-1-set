@@ -1,4 +1,4 @@
-const { Team, Character } = require('./team');
+const { Team, Character } = require('../team');
 
 describe('класс Команда', () => {
   let team;
