@@ -1,4 +1,4 @@
-// Класс Персонажи
+// Класс Персонаж
 class Character {
   constructor(name, level, state = 'healthy') {
     this.name = name;
